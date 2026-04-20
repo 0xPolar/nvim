@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://raw.githubusercontent.com/chipsenkbeil/distant.nvim/v0.3/lua/distant/init.lua)"
+    ]
+  }
+}
